@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💾 Tenho 24 anos<br><br>🔄 Ex-estudante de Psicologia — transicionei de bugs mentais para bugs de código<br><br>🔍 Viciada em tecnologia, true crime, comportamento humano e crochê<br><br>🐶 Mãe do Thor e do Tufão, meus devs caninos favoritos</p>
+<p align="left">💾 Tenho 24 anos<br><br>🔄 Ex-estudante de Psicologia — transicionei de bugs mentais para bugs de código<br><br>🔍 Viciada em tecnologia, true crime, comportamento humano e crochê<br><br>🐶 Mãe do Thor e do Tufão</p>
 
 ###
 
